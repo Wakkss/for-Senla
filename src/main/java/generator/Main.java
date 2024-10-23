@@ -1,4 +1,4 @@
-package main.java.generator;//package generator;
+//package generator;//package generator;
 //
 //public class Main {
 //    public static void main(String[] args) {

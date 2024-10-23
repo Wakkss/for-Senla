@@ -1,4 +1,4 @@
-package main.java.exchange_rate;
+package exchange_rate;
 
 public class Exchange {
     public static void main(String[] args) {

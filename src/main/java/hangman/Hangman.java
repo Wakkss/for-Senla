@@ -1,4 +1,4 @@
-package main.java.hangman;
+package hangman;
 
 import java.util.Random;
 import java.util.Scanner;

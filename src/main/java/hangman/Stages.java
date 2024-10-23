@@ -1,4 +1,4 @@
-package main.java.hangman;
+package hangman;
 
 public class Stages {
     public static String[] stages = {

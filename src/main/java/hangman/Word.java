@@ -1,4 +1,4 @@
-package main.java.hangman;
+package hangman;
 
 public class Word {
     public static String[] wordList = {
