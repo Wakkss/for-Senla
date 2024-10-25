@@ -1,6 +1,5 @@
 package genpas;
 import java.lang.String;
-import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
