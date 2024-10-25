@@ -14,7 +14,6 @@ public class Valute {
 
         System.out.print("Введите сумму в USD: ");
         double amountInUSD = scanner.nextDouble();
-
         System.out.printf("Сумма в EUR: %.2f%n", convertToEUR(amountInUSD));
         System.out.printf("Сумма в GBP: %.2f%n", convertToGBP(amountInUSD));
         System.out.printf("Сумма в RUB: %.2f%n", convertToRUB(amountInUSD));

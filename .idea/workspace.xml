@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67632ee6-cc0e-492f-a107-641abeb94ab1" name="Changes" comment="Tasks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/converter/Valute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/genpas/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/genpas/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exchange_rate/Exchange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generator/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/converter/Valute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/converter/Valute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/genpas/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/genpas/Generator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2nrJ61htkcMMLWvtpR26oTlfJ5t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,6 +49,26 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sevas\IdeaProjects\Senla_tasks" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Valute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="converter.Valute" />
+      <module name="Senla_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="converter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Valute" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729725506278</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tasks">
+      <created>1729796849062</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729796849062</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
