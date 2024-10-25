@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67632ee6-cc0e-492f-a107-641abeb94ab1" name="Changes" comment="Tasks">
-      <change beforePath="$PROJECT_DIR$/src/main/java/genpas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/genpas/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="67632ee6-cc0e-492f-a107-641abeb94ab1" name="Changes" comment="Tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729860354303</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Tasks">
+      <created>1729860383672</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729860383672</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
