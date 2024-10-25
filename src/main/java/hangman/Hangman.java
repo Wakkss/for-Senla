@@ -5,16 +5,11 @@ import java.util.Scanner;
 
 public class Hangman {
     public static void main(String[] args) {
-        //String logo = "hangman.Hangman Logo"; // Логотип игры
 
         Random random = new Random();
         String chosenWord = Word.wordList[random.nextInt(Word.wordList.length)];
         int wordLength = chosenWord.length();
 
-        // Testing code
-        //System.out.println(logo);
-
-        // Create blanks
         int lives = 6;
         char[] display = new char[wordLength];
         for (int i = 0; i < wordLength; i++) {
@@ -31,7 +26,6 @@ public class Hangman {
             }
             System.out.print("Guess a letter: ");
             char guess = scanner.nextLine().toLowerCase().charAt(0);
-            //System.out.println(logo);
 
             boolean correctGuess = false;
             for (int position = 0; position < wordLength; position++) {
