@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67632ee6-cc0e-492f-a107-641abeb94ab1" name="Changes" comment="Tasks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/genpas/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/converter/Valute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/converter/Valute.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/genpas/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/genpas/Generator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729796849062</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tasks">
+      <created>1729860247862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729860247862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
